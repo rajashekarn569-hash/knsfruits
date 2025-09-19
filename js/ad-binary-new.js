@@ -1,0 +1,1 @@
+var ad_key_ready = '429/23edfbdca2436539df31c426edb66e15db3a990b';
